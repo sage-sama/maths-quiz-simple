@@ -64,7 +64,7 @@ const quizData = [
     {
         question: "7x7 = ?",
         a: "56",
-        b: "35",
+        b: "49",
         c: "40",
         d: "77",
         correct: "b",
